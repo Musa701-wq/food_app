@@ -1,0 +1,64 @@
+name: firstdemo
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  get: ^4.7.2
+  flutter_otp_text_field: ^1.5.1+1
+  google_fonts: ^6.3.2
+  shared_preferences: ^2.5.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/Logo.png
+    - assets/images/Ellipse 1005.png
+    - assets/images/Ellipse 1006.png
+    - assets/images/onboarding1.jpg
+    - assets/images/onboarding2.jpeg
+    - assets/images/onboarding3.png
+    - assets/images/Vector 142.png
+    - assets/images/googleicon.png
+    - assets/images/facebook.png
+    - assets/images/r.jpeg
+    - assets/images/r1.jpeg
+    - assets/images/r4.jpeg
+    - assets/images/r5.jpeg
+    - assets/images/r33.jpeg
+    - assets/images/hd.jpg
+    - assets/images/ice.jpeg
+    - assets/images/pizza.jpg
+    - assets/images/burger.jpg
+    - assets/images/drink.jpg
+    - assets/images/shopping-bag.png
+    - assets/images/Ellipse 1294.png
+    - assets/images/Menu.png
+    - assets/images/More.png
+    - assets/images/Clock.png
+    - assets/images/Star 1.png
+    - assets/images/Delivery.png
+
+
+
+    
+  
